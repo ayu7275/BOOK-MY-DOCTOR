@@ -1,0 +1,4 @@
+img, div { behavior: url(iepngfix.htc);
+    height: 92px;
+    width: 470px;
+}
